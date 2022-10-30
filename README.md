@@ -1,4 +1,5 @@
 # Team Name Genrator by Hack2skill
+Aakansha Rai and Jatin Kumar because we have same laptop
 
 Team Name genrator is an online tool which Participants can use to genrate interesting names for thier teams.
 - Genrate Random Team Names with Ease
